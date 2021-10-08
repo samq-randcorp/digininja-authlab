@@ -19,3 +19,5 @@ app/tmp/
 app/test-results/
 tmp
 log/
+/target
+none
